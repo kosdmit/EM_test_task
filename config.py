@@ -1,0 +1,1 @@
+ROWS_COUNT_IN_PAGE = 5
